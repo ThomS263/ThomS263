@@ -3,7 +3,7 @@
 <!-- Animierter Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071D5,100:D32F2F&height=120&section=header" alt="Header">
 
-<h1>Seas I'm ThomS263</h1>
+<h1>Seas 🤗 I'm ThomS263</h1>
 
 <!-- Animierter Schreibmaschinen-Text -->
 <p>
