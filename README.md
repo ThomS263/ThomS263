@@ -48,7 +48,7 @@
 <h3>🚒 Voluntary Work</h3>
 <p>
     <a href="https://www.ff-grafendorf.at/neuigkeiten/" target="_blank">
-        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Feuerwehr_Signet_N%C3%96.svg" alt="Feuerwehr Signet NÖ">
+        <img height="60px" src="./ffw.png" alt="Feuerwehr Ober-Grafendorf">
         <br><br>
         <img src="https://img.shields.io/badge/Freiwillige_Feuerwehr-Ober--Grafendorf-D32F2F?style=for-the-badge" alt="Freiwillige Feuerwehr Ober-Grafendorf">
     </a>
@@ -61,9 +61,11 @@
 <!-- Live GitHub Stats -->
 <h3>📊 GitHub Stats</h3>
 <p>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ThomS263&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ThomS263's GitHub Stats">
-    &nbsp;
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomS263&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+    <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThomS263&theme=tokyonight" alt="Stats">
+
+</p>
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomS263&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
 </p>
 
 <br>
@@ -72,3 +74,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D32F2F,100:0071D5&height=100&section=footer" alt="Footer">
 
 </div>
+
