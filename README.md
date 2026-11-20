@@ -36,7 +36,7 @@
 <!-- Feuerwehr Ober-Grafendorf -->
 <p>
     <a href="https://www.ff-grafendorf.at/neuigkeiten/" target="_blank">
-        <img height="45px" src="./flamme.png" alt="Feuerwehr Ober-Grafendorf">
+        <img height="45px" src="./ffw.png" alt="Feuerwehr Ober-Grafendorf">
         <br>
         <b>Freiwillige Feuerwehr Ober-Grafendorf</b>
     </a>
