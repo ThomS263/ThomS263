@@ -10,12 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hobby+Engineer+from+Austria+%F0%9F%87%A6%F0%9F%87%B9;C+%2F+C%2B%2B+%26+Python+Developer;Active+Member+%40+FF+Ober-Grafendorf+%F0%9F%94%A5" alt="Typing SVG">
 </p>
 
-<br>
-
 <!-- Tech Stack -->
 <h3>🛠️ Tech Stack & Tools</h3>
-
-<!-- IDEs -->
 <p>
     <img src="https://img.shields.io/badge/CLion-26a69a?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
     &nbsp;
