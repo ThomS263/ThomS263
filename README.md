@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animierter Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071D5,100:D32F2F&height=120&section=header" alt="Header">
 
 <h1>Seas 🤗 I'm ThomS263</h1>
 
@@ -11,7 +9,7 @@
 </p>
 
 <!-- Tech Stack -->
-<h3>🛠️ Tech Stack & Tools</h3>
+<h3>Tech Stack & Tools</h3>
 <p>
     <img src="https://img.shields.io/badge/CLion-26a69a?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
     &nbsp;
@@ -41,7 +39,7 @@
 <br>
 
 <!-- Feuerwehr Ober-Grafendorf -->
-<h3>🚒 Voluntary Work</h3>
+<h3>Voluntary Work</h3>
 <p>
     <a href="https://www.ff-grafendorf.at/neuigkeiten/" target="_blank">
         <img height="60px" src="./ffw.png" alt="Feuerwehr Ober-Grafendorf">
@@ -55,19 +53,11 @@
 <br>
 
 <!-- Live GitHub Stats -->
-<h3>📊 GitHub Stats</h3>
-<p>
-    <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThomS263&theme=tokyonight" alt="Stats">
-
-</p>
+<h3>GitHub Stats</h3>
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomS263&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
 </p>
 
 <br>
-
-<!-- Animierter Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D32F2F,100:0071D5&height=100&section=footer" alt="Footer">
-
 </div>
 
