@@ -34,23 +34,15 @@
     <img src="https://img.shields.io/badge/Python-3d74a1?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-<br>
-<hr width="60%">
-<br>
 
 <!-- Feuerwehr Ober-Grafendorf -->
 <h3>Voluntary Work</h3>
 <p>
     <a href="https://www.ff-grafendorf.at/neuigkeiten/" target="_blank">
-        <img height="60px" src="./ffw.png" alt="Feuerwehr Ober-Grafendorf">
-        <br><br>
         <img src="https://img.shields.io/badge/Freiwillige_Feuerwehr-Ober--Grafendorf-D32F2F?style=for-the-badge" alt="Freiwillige Feuerwehr Ober-Grafendorf">
     </a>
 </p>
 
-<br>
-<hr width="60%">
-<br>
 
 <!-- Live GitHub Stats -->
 <h3>GitHub Stats</h3>
