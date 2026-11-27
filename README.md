@@ -2,13 +2,9 @@
 
 
 <h1>Seas 🤗 I'm ThomS263</h1>
-
-<!-- Animierter Schreibmaschinen-Text -->
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hobby+Engineer+from+Austria+%F0%9F%87%A6%F0%9F%87%B9;C+%2F+C%2B%2B+%26+Python+Developer;Active+Member+%40+FF+Ober-Grafendorf+%F0%9F%94%A5" alt="Typing SVG">
 </p>
-
-<!-- Tech Stack -->
 <h3>Tech Stack & Tools</h3>
 <p>
     <img src="https://img.shields.io/badge/CLion-26a69a?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
@@ -17,15 +13,11 @@
     &nbsp;
     <img src="https://img.shields.io/badge/WebStorm-087cfa?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">  
 </p>
-
-<!-- Platforms / Tools -->
 <p>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     &nbsp;
     <img src="https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
 </p>
-
-<!-- Languages -->
 <p>
     <img src="https://img.shields.io/badge/C-0071D5?style=for-the-badge&logo=c&logoColor=white" alt="C">
     &nbsp;
@@ -33,23 +25,15 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Python-3d74a1?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
-
-
-<!-- Feuerwehr Ober-Grafendorf -->
 <h3>Voluntary Work</h3>
 <p>
     <a href="https://www.ff-grafendorf.at/neuigkeiten/" target="_blank">
         <img src="https://img.shields.io/badge/Freiwillige_Feuerwehr-Ober--Grafendorf-D32F2F?style=for-the-badge" alt="Freiwillige Feuerwehr Ober-Grafendorf">
     </a>
 </p>
-
-
-<!-- Live GitHub Stats -->
 <h3>GitHub Stats</h3>
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomS263&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
 </p>
-
-<br>
 </div>
 
